@@ -96,6 +96,7 @@ fun MyTextField(
 @Composable
 fun DefaultPreview() {
     StateTutorialTheme {
+//        MyScreeen(myViewmodel = , scope = , scaffoldState = )
     }
 }
 
